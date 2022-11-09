@@ -1,1 +1,1 @@
-# week-0-proplem-cs50
+proplem-sets-cs50
